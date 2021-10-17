@@ -3,7 +3,7 @@ class Hello
 public statis void main (String args[])
 {
 
-System.out.println("hello Second time");
+System.out.println("hello Third time");
 }
 }
 
